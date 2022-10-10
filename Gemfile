@@ -1,4 +1,7 @@
 source "https://rubygems.org"
-gemspec
 
-gem "webrick", "~> 1.7"
+# to publish on github page
+gem 'github-pages', group: :jekyll_plugins
+
+# to publich without github page
+#gem "jekyll"
