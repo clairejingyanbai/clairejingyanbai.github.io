@@ -83,6 +83,8 @@ The site should now be running at [http://localhost:4000/](http://localhost:4000
 
 This is perhaps the easiest way to see how your site would actually look.
 
+### 1. format
+
 ## Configure the sidebar
 
 There are several products in this theme. Each product uses a different sidebar. This is the essence of what makes this theme unique -- different sidebars for different product documentation. The idea is that when users are reading documentation for a specific product, the sidebar navigation should be specific to that product. (You can read more of my thoughts on why multiple sidebars are important in this [blog post](http://idratherbewriting.com/2016/03/23/release-of-documentation-theme-for-jekyll-50/).)
